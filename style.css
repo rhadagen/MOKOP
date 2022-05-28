@@ -1,0 +1,160 @@
+nav{
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    height: 63;
+    justify-content: space-between;  
+    grid-template-columns: 33% 33% 33%; 
+    grid-template-rows: 0.1rem 0.1rem  ;
+    
+}
+section{  
+    grid-row: left;
+}
+.PRIMEROSICONOS{
+    display: grid;
+    margin-left: 15%;
+}
+.button{
+    display: flex ;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    width: 8.8cm;
+    height: .2cm;
+    border-radius: 100px;
+    padding: 20px 60px;
+    border: 2px solid rgb(240, 234, 234);
+    text-decoration: none;
+    align-items: center;
+    font-size: 95%;
+    margin-top: 0.5rem;
+    padding-left: 20px;
+    color: black;
+}
+
+a{
+    display: flex;
+    
+    
+    
+}
+#LUGAR{
+    display: flex;
+    margin-right: 2%;
+    font-size: 90%;
+}
+#SEMANA{
+    display: flex;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 90%;
+    
+}
+
+#CUANTOS{
+    display: flex;
+    margin-left: 1%;
+    font-size: 90%;
+    align-items: center;
+    color: rgb(179, 177, 174);
+    margin-right: 0%;
+    
+}
+#ICONO{
+    display: grid;
+    background-color: rgb(253, 93, 125);
+    border-radius: 100%;
+    width: 1.8rem;
+    height: 1.6rem;
+    align-items: center;
+    margin-left: 50%;
+}
+.SEGUNDOSICONOS{
+    grid-row: right;
+    margin-left: 100px;
+    
+    
+}
+#buttonn{
+    
+    display: flex;
+    width: 1%;
+    height: 0.1rem;
+    border-radius: 100px;
+    padding: 20px 60px;
+    border: 2px solid rgb(202, 200, 200);
+    text-decoration: none;
+    padding-right: 100px;
+    padding-left: 10px;
+    align-items: center; 
+    margin-top: 0.5rem;
+    margin-right: 1rem;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 90%;
+}
+.botones{
+    display: flex;
+    padding-top: rem;
+    align-items: center;
+    margin-top: 0.5rem;    
+}
+.mundito{
+
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 30%;
+    
+}
+#usu{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    align-items: center;
+}
+.MAIN{
+    background-color: rgb(198, 236, 236);
+    display: grid;
+    height: 10%;   
+    justify-items: left;
+    font-style: oblique;
+    padding: 90px;
+    
+}
+
+.contiene{
+    display: flex;
+    grid-template-columns: 12fr;
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-top: 2rem;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 80%;
+    color: rgb(112, 110, 108);
+}
+.SIGUIENTE{
+    display: grid;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 90%;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    
+
+}
+.gridnav{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-right: 8%;
+}
+.imageness{
+    margin-left: 15%;
+    margin-top: 2rem;
+    display: grid;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    border-radius: 100%;
+}
+.font{
+    display: flex;
+    font-weight: bold;
+    justify-content: space-between;
+}
+
